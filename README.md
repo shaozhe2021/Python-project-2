@@ -1,4 +1,7 @@
 # Python-project-2
+
+Customer Retention Data-Driven Strategies
+
 ● Led a team of 5 to determine factors responsible for airplane flight satisfactions to generate targeted, data-driven business
 strategies to improve customer retention
 
